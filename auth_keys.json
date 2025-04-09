@@ -2,5 +2,9 @@
     "KEY-test-test": {
         "hwid": "DESKTOP-8UG9GUQ",
         "reg_time": "2025-04-09T07:04:21.667663+00:00"
+    },
+    "KEY-QVJP-9BZC": {
+        "hwid": "null",
+        "reg_time": "null"
     }
 }
